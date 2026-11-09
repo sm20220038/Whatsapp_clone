@@ -5,7 +5,6 @@
 !/.gitignore
 !/.gitattributes
 !/README.md
-!/README.en.md
 !/run-web.ps1
 !/server/
 !/tools/
